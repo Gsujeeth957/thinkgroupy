@@ -1,0 +1,36 @@
+.background{
+    background-image:url("image2\ \(3\).jpg") ;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+    color: white;
+    
+}
+
+#services{
+    background-image:url("service.jpg") ;
+    background-size: cover;
+    color: white;
+}
+
+.thumbnail{
+    background-size: cover;}
+    
+.row{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+  }
+  .body{
+      background-color:yellow;
+  }
+  .thumbnail{
+      background-color: yellow;
+  }
